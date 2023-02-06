@@ -14,13 +14,11 @@ class ResultViewController: UIViewController {
     @IBOutlet weak var resultLabel: UILabel!
     
     var result = 0
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         resultLabel.text = "\(result)"
         backButton.layer.cornerRadius = backButton.frame.height/2
     }
-
     @IBAction func onClickHome(_ sender: Any) {
         navigationController?.popToRootViewController(animated: true)
     }

@@ -47,6 +47,11 @@ class QuizCollectionViewCell: UICollectionViewCell {
         updateBorder(myView: optionB)
         updateBorder(myView: optionC)
         updateBorder(myView: optionD)
+        option1.alpha = 1
+        option2.alpha = 1
+        option3.alpha = 1
+        option4.alpha = 1
+
     }
     
     var selectedOption: ((_ selectedAnswer: Bool) -> Void)?
