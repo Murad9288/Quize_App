@@ -3,7 +3,7 @@
 //  Quiz App
 //
 //  Created by Md Murad Hossain on 30/11/22.
-//
+// grepper how to collectionviewcell custom setup
 
 import UIKit
 
@@ -145,3 +145,4 @@ class QuizCollectionViewCell: UICollectionViewCell {
     
     }
 }
+// end grepper
