@@ -9,8 +9,6 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
-    
     @IBOutlet weak var playButton: UIButton! {
         didSet {
             playButton.layer.cornerRadius = playButton.frame.height/2
