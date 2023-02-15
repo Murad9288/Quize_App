@@ -1,5 +1,5 @@
 <div align="center">
-# `Quize_App`
+  <h1> Quize App </h1>
 
 
 ![](https://img.shields.io/badge/Build-passing-success.svg?style=flat)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 
 <br/>
 
-# Quize_App Example Picture ->
+  <h2>Quize_App Example Picture -></h2>
 
 |Play App|Quize Answer|Your Result|
 |---|---|---|
